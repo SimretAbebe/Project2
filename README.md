@@ -1,12 +1,44 @@
-# React + Vite
+# 📝 Quiz App for Interview Preparation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive, and interactive **Quiz App** built with **React and Vite** designed to help users practice essential **Software Development** 
+and **Data Structures & Algorithms (DSA)** interview questions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧩 **16 carefully selected Interview Questions**
+- 🎯 Multiple-choice format with instant feedback
+- 🔄 Shuffle questions feature
+- 📱 Responsive and clean user interface
+- 🔥 Built with **React + Vite** for fast performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Quiz Categories
+
+1. **Software Development Questions:**
+   - Concepts of Git & GitHub
+   - Software Development Life Cycle (SDLC)
+   - Object-Oriented Programming (OOP)
+   - Version Control principles
+   - Testing (Unit, Integration)
+   
+
+2. **Data Structures & Algorithms (DSA) Questions:**
+   - Array & String manipulations
+   - Sorting Algorithms (Bubble, Quick, Merge)
+   - Linked Lists
+   - Stacks & Queues
+   - Trees (Binary Tree, BST)
+   - Graph Basics
+   - Complexity Analysis (Big O Notation)
+
+---
+
+## 🏗️ Technologies Used
+
+- ⚛️ **React** — UI Library
+- ⚡ **Vite** — Frontend Build Tool
+- 🎨 **CSS** — Styling
+
